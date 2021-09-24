@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-32VH1SM</Machine>
+    <WindowsUser>Syed Owais</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>7ef5dec0-07ca-4022-9de8-fc9a954eaea0</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>EC0669E118BB1A54DBFCC4B04594DBA04D9C730A00B90C1B2CEEB1CAE0665D53</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>7ef5dec0-07ca-4022-9de8-fc9a954eaea0_1.0.0.0_neutral__1vks0esrphhyt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>7ef5dec0-07ca-4022-9de8-fc9a954eaea0_1vks0esrphhyt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>7ef5dec0-07ca-4022-9de8-fc9a954eaea0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Syed Owais</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-27T02:46:52.259</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\bin\Debug\Currancy-converter.exe">
+      <PackagePath>Currancy-converter.exe</PackagePath>
+      <Modified>2017-05-28T12:33:34.397</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\Assets\a.png">
+      <PackagePath>Assets\a.png</PackagePath>
+      <Modified>2017-05-25T18:17:33.324</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\Assets\1Logo.scale-100.png">
+      <PackagePath>Assets\1Logo.scale-100.png</PackagePath>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\Assets\b.png">
+      <PackagePath>Assets\b.png</PackagePath>
+      <Modified>2017-05-27T02:46:31.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-27T02:43:26.151</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-27T02:46:31.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-05-25T17:21:21.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-05-28T12:31:24.364</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\bin\Debug\Currancy-converter.xr.xml">
+      <PackagePath>Currancy-converter.xr.xml</PackagePath>
+      <Modified>2017-05-28T12:31:24.346</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2017-05-27T02:46:52.130</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

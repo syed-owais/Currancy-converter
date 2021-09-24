@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-32VH1SM</Machine>
+    <WindowsUser>Syed Owais</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>7ef5dec0-07ca-4022-9de8-fc9a954eaea0</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\bin\Debug\Currancy-converter.exe">
+      <PackagePath>Currancy-converter.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\Assets\a.png">
+      <PackagePath>Assets\a.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\Assets\1Logo.scale-100.png">
+      <PackagePath>Assets\1Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\Assets\b.png">
+      <PackagePath>Assets\b.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\bin\Debug\Currancy-converter.xr.xml">
+      <PackagePath>Currancy-converter.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Syed Owais\Documents\Visual Studio 2013\Projects\Currancy-converter\Currancy-converter\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
